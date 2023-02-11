@@ -1,7 +1,13 @@
 # MyFirstApp
  This is my **first app** on GitHub
-## Lista
-* Item 1
-* Item 2
-* Item 3
+## Mis peliculas y series favoritas
+* **Peliculas**
+  * Hacksaw Ridge
+  * Kung fu Panda 2
+  * Avatar 2
+  * Corazones de hierro
+* **Series**
+  * Breaking Bad
+  * The Witcher
+  * The Boys
 
